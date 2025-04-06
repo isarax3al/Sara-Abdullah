@@ -8,13 +8,12 @@ I am Sara Abdullah, Interestedin Cyber-Security, Hacking
 
 # Achievements
 
-- Apple 2021
-- TikTok 2021
-- NetFlix 2021
-- AT&T 2019
-- University of Cambridge 2020
-- paypal 2022
-- Google 2023
+- Apple 
+- TikTok 
+- NetFlix 
+- AT&T 
+- paypal 
+- Google 
 
 # Twitter
 
